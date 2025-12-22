@@ -9,7 +9,7 @@
     <key>ProgramArguments</key>
     <array>
       <string>/bin/zsh</string>
-      <string>/Users/chanlee//git/automation-scripts/backups/ssd_to_nas_rsync.sh</string>
+      <string>/Users/chanlee//dev/automation-scripts/backups/ssd_to_nas_rsync.sh</string>
     </array>
 
     <!-- Weekly: Sunday 03:00 -->
